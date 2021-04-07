@@ -2,8 +2,6 @@
 # Script E4 SNMP
 
 # Install les paquets nécéssaire
-apt update
-apt upgrade
 apt install snmp snmpd
 
 # Supprime et télécharge le fichier conf SNMP
