@@ -14,3 +14,6 @@ wget https://raw.githubusercontent.com/Nil2a/Script/main/snmpd.conf
 # Restart et affiche le status du service SNMP
 systemctl restart snmpd.service
 systemctl status snmpd.service
+
+#Dell le script
+rm e4snmp.sh
